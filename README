@@ -1,0 +1,9 @@
+A Meta Repository to keep track of all the different languages I develop.
+
+1) dater
+Date calculations done easy.
+A simple DSL for date calculations, with an interpreter in Haskell.
+https://github.com/wonhyukchoi/dater
+
+2) ??
+A DSL in Racket.
